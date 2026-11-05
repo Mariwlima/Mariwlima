@@ -10,7 +10,7 @@ I treat security and data integrity as part of the design, write automated tests
 
 | Project | What it is | Stack |
 |---|---|---|
-| **DailyPet** | Cross-platform app where a family shares a pet's care routine in real time. Row-level security on every table, two-factor authentication, offline sync, 130+ database security tests and end-to-end tests in CI. Launching on Google Play. | React Native, Expo, TypeScript, Supabase, PostgreSQL, GitHub Actions |
+| **[DailyPet](https://github.com/Mariwlima/DailyPet-showcase)** | Cross-platform app where a family shares a pet's care routine in real time. Row-level security on every table, two-factor authentication, offline sync, 159 database checks and 77 end-to-end checks. Launching on Google Play. | React Native, Expo, TypeScript, Supabase, PostgreSQL, GitHub Actions |
 | **[Plately](https://github.com/Mariwlima/Plately)** | Bilingual (EN/PT) recipe organizer and meal planner with Firebase Authentication and per-user Cloud Firestore data protected by security rules. [Live demo](https://marianalimadev.com/Plately) | JavaScript, Firebase Auth, Cloud Firestore |
 | **[FamilyFlow](https://github.com/Mariwlima/FamilyFlow)** | Family organizer with role-based access for adults and kids. Harvard CS50x final project. [Live demo](https://familyflow-ib6n.onrender.com) | Python, Flask, SQLite, JavaScript, Bootstrap |
 
